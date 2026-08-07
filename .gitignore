@@ -1,0 +1,12 @@
+# Dependencias
+node_modules/
+
+# Playwright (Reportes y resultados temporales)
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
