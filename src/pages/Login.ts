@@ -10,7 +10,7 @@ export class LoginPage {
     constructor (page: Page){
         this.page = page;
 
-        this.inputUsername = page.locator('#usernameeeeeeeeeee');
+        this.inputUsername = page.locator('#username');
         this.inputPass = page.locator('#password');
         this.btnLogin = page.locator('#submit');
     }
