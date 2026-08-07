@@ -6,7 +6,7 @@ export default defineConfig({
   workers: 1,
   reporter: [['html', { open: 'always' }]],
   use: {
-    headless: false,
+    headless: true,
     screenshot: 'on',
   },
 });
