@@ -12,4 +12,6 @@
   "devDependencies": {
     "@playwright/test": "^1.62.1"
   }
+
+  ESTO ES UNA MODIFICACION DE PRUEBA
 }
